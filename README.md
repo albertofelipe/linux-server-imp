@@ -1,4 +1,4 @@
-#IMPLEMENTAÇÃO LINUX SERVER
+# IMPLEMENTAÇÃO LINUX SERVER
 
 ## Introdução
 A evolução dos sistemas operacionais de servidor tem sido crucial para o suporte e a operação eficiente das infraestruturas de TI modernas. Entre os sistemas operacionais baseados em Linux, diversas distribuições destacam-se pela robustez, segurança e flexibilidade, sendo amplamente adotadas em ambientes corporativos e acadêmicos. Estas distribuições oferecem uma gama de recursos avançados projetados para atender às demandas de ambientes complexos e em constante evolução.
